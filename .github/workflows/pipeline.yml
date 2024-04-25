@@ -1,4 +1,4 @@
-name: ec2-creation
+name: roles
 
 on:
   push:
